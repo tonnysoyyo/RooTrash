@@ -1,0 +1,8 @@
+Reto 1:
+
+Write a program that accepts a user input integer value and stores it in a variable. Then, use a pointer to that variable to modify its value and print the modified value back to the user. Puesto por chatgpt.
+
+Reto 2:
+
+Construya una clase Tiempo que contenga los siguientes enteros: horas, minutos y segundos. Haga que la clase contenga 2 constructores, el primero debe tener 3 parámetros Tiempo(int, int, int) y el segundo sólo tendrá un campo que serán los segundos y desensamble el número entero largo en horas, minutos y segundos.
+
